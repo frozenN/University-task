@@ -1,2 +1,3 @@
-# University-task
-Some of the tasks I did on graduating on Universidade Federal de Itajuba. The main reason of this rep is to help newcommers on the university with some material :D
+# University
+
+Alguns códigos produzidos durante minha graduação em Ciência da Computação na Universidade Federal de Itajubá. Consiste de coisas bastante simples. O principal objetivo do repositório é colaborar com alunos ingressantes no curso :)
