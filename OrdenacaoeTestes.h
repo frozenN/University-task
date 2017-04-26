@@ -1,5 +1,4 @@
-/* Gabriel Erzinger Dousseau - Universidade Federal de Itajuba
-Computer Science Bachelor Student - Cf: http://codeforces.com/profile/singulari1ty */
+/* Gabriel Erzinger Dousseau - Universidade Federal de Itajuba */
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
